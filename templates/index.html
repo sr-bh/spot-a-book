@@ -107,9 +107,27 @@
                   		        <input id="file-upload" type="file" name="shelf" style="display: none;" placeholder="Author" aria-label="Enter Author's name" aria-describedby="button-addon2" accept="image/*">
                                 Upload image
                             </label>
+                            <label class="form-group" id="uploaded"></label>
+                            <script>
+                                var input = document.getElementById('file-upload');
+                                var infoArea = document.getElementById('uploaded');
+                                input.addEventListener('change', showFileName);
+                                
+                                function showFileName(event){
+                                    var input = event.srcElement;
+                                    var fileName = input.files[0].name;
+                                    infoArea.textContent = 'Uploaded ' + fileName;
+                                }
+                            </script>
                 	    </div>
                         <div class="form-group">
-                            <button class="btn btn-primary px-5" type="submit">Search</button>
+                            <button class="btn btn-primary px-5" type="submit" id="submit-btn">Search</button>
+                            <script>
+                                document.getElementById("submit-btn").onclick = function() {clearLabel()};
+                                function clearLabel() {
+                                    document.getElementById("uploaded").innerHTML = "";
+                                }
+                            </script>
                         </div>
                 </form>
           </div>
@@ -130,28 +148,6 @@
           <img src="static/images/signature.png" alt="Image" class="img-fluid w-25">
         </div>
         
-      </div>
-    </div>
-
-
-
-    <div class="site-section bg-light" id="testimonial-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-12">
-            <h2 class="heading">Testimonial From Readers</h2>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="site-section py-5 bg-primary">
-      <div class="container">
-        <h3 class="text-white h4 mb-3 ml-3">Subscribe For The New Updates</h3>
-        <div class="d-flex">
-          <input type="text" class="form-control mr-4 px-4" placeholder="Enter your email address...">
-          <input type="submit" class="btn btn-white px-4" value="Send Email">
-        </div>
       </div>
     </div>
   

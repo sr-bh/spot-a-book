@@ -45,7 +45,7 @@ def search():
             #                         filename=filename))
             # img_file = url_for('uploaded_file', filename=filename)
             img_file = os.path.join(UPLOAD_FOLDER, filename)
-            print(img_file)
+            # print(img_file)
             query = title + author
 
             texts = detect_text(img_file)
@@ -58,7 +58,7 @@ def search():
 
 @app.route('/static/images/temp/<filename>')
 def uploaded_file(filename):
-    print("HERE")
+    # print("HERE")
     return send_from_directory(UPLOAD_FOLDER, filename)
 
 
@@ -68,10 +68,10 @@ def search_for_book(query):
     url += '+'.join(terms)
 
     response = requests.get(url)
-    print("Book type", type(response))
-    print(response)
+    # print("Book type", type(response))
+    # print(response)
     if response.status_code == requests.codes.ok:
-        print(type(response.text))
+        # print(type(response.text))
         return response.text
     elif response.error.message:
         raise Exception(
@@ -99,9 +99,9 @@ def detect_text(path):
     # print(response)
     
     texts = MessageToDict(response)
-    print(type(texts))
+    # print(type(texts))
     # print("TEXTS: ", texts)
-    print(type(texts))
+    # print(type(texts))
     if response.error.message:
         raise Exception(
             '{}\nFor more info on error messages, check: '
@@ -132,8 +132,8 @@ def extract_bounding_box(parts, response):
     for resp in response:
         name = resp['description'].lower()
         if name == parts[i]:
-            print(name, parts[i], i)
-            print(resp['boundingPoly']['vertices'])
+            # print(name, parts[i], i)
+            # print(resp['boundingPoly']['vertices'])
 
             for point in resp['boundingPoly']['vertices']:
             
@@ -159,8 +159,8 @@ def getMatch(query, texts, img_file):
     author_match = False
     #get candidates
     texts = json.loads(texts)
-    print(texts)
-    print(type(texts))
+    # print(texts)
+    # print(type(texts))
     texts = texts['textAnnotations']
     candidates = set(texts[0]['description'].lower().split('\n'))
 
@@ -183,7 +183,7 @@ def getMatch(query, texts, img_file):
         book_json = search_for_book(query)
         book_json = json.loads(book_json)
         author = (book_json['items'][0]["volumeInfo"]["authors"][0]).lower()
-        print('author: ', author)
+        # print('author: ', author)
         match, score = process.extractOne(author, candidates)
         if score > 80:
             fuzzy_match = True
@@ -192,9 +192,9 @@ def getMatch(query, texts, img_file):
             print('Found a fuzzy author match: ', min_x, max_x, min_y, max_y)
         else:
             return render_template('result.html', message="No Books found", filename=img_file)
-    print("I am here!")
+    # print("I am here!")
     img = getImage(img_file, min_x, max_x, min_y, max_y)
-    print("I am after!")
+    # print("I am after!")
     return render_template('result.html', message="Here are the books we found", filename=img)
 
 
