@@ -1,0 +1,877 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 674,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tMTVDAAAQBAJ",
+   "etag": "0CS7YzV0m44",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tMTVDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Rick Stein's Long Weekends",
+    "authors": [
+     "Rick Stein"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2016-10-06",
+    "description": "To accompany the major BBC Two series, Rick Stein’s Long Weekends is a mouthwatering collection of over 100 recipes from ten European cities. Rick’s recipes are designed to cater for all your weekend meals. For a quick Friday night supper Icelandic breaded lamb chops will do the trick, and Huevos a la Flamenca makes a tasty Saturday brunch. Viennese Tafelspitz is perfect for Sunday lunch, and of course no weekend would be complete without Portuguese custard tarts or Berliner Doughnuts for an afternoon treat. Accompanied by beautiful photography of the food and locations, and complemented by his personal memories and travel tips for each city, Rick will inspire you to re-create the magic of a long weekend in your own home.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781473530508"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1473530504"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tMTVDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tMTVDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tMTVDAAAQBAJ&printsec=frontcover&dq=RICK-STEIN-Long-Weekends&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tMTVDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tMTVDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.65,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 28.95,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tMTVDAAAQBAJ&rdid=book-tMTVDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.665E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.895E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Rick_Stein_s_Long_Weekends-sample-epub.acsm?id=tMTVDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tMTVDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "To accompany the major BBC Two series, Rick Stein’s Long Weekends is a mouthwatering collection of over 100 recipes from ten European cities."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eUdKDQAAQBAJ",
+   "etag": "FITogLCCg2A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eUdKDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Rick Stein's Long Weekends",
+    "authors": [
+     "Rick Stein"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2016-10-06",
+    "description": "To accompany the major BBC Two series, Rick Stein's Long Weekends is a mouthwatering collection of over 100 recipes from ten European cities. Rick's recipes are designed to cater for all your weekend meals. For a quick Friday night supper Icelandic breaded lamb chops will do the trick, and Huevos a la Flamenca makes a tasty Saturday brunch. Viennese Tafelspitz is perfect for Sunday lunch, and of course no weekend would be complete without Portuguese custard tarts or Berliner Doughnuts for an afternoon treat. Accompanied by beautiful photography of the food and locations, and complemented by his personal memories and travel tips for each city, Rick will inspire you to re-create the magic of a long weekend in your own home.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781785940927"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1785940929"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eUdKDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eUdKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eUdKDQAAQBAJ&dq=RICK-STEIN-Long-Weekends&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eUdKDQAAQBAJ&dq=RICK-STEIN-Long-Weekends&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rick_Stein_s_Long_Weekends.html?hl=&id=eUdKDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eUdKDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "To accompany the major BBC Two series, Rick Stein&#39;s Long Weekends is a mouthwatering collection of over 100 recipes from ten European cities. Rick&#39;s recipes are designed to cater for all your weekend meals."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Jv1WDwAAQBAJ",
+   "etag": "fVOsv+b9BLs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Jv1WDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Rick Stein’s Secret France",
+    "authors": [
+     "Rick Stein"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2019-10-31",
+    "description": "Real French home cooking with all the recipes from Rick's new BBC Two series. Over fifty years ago Rick Stein first set foot in France. Now, he returns to the food and cooking he loves the most ... and makes us fall in love with French food all over again. Rick’s meandering quest through the byways and back roads of rural France sees him pick up inspiration from Normandy to Provence. With characteristic passion and joie de vivre, Rick serves up incredible recipes: chicken stuffed with mushrooms and Comté, grilled bream with aioli from the Languedoc coast, a duck liver parfait bursting with flavour, and a recipe for the most perfect raspberry tart plus much, much more. Simple fare, wonderful ingredients, all perfectly assembled; Rick finds the true essence of a food so universally loved, and far easier to recreate than you think.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781473531710"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1473531713"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Jv1WDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Jv1WDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Jv1WDwAAQBAJ&printsec=frontcover&dq=RICK-STEIN-Long-Weekends&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Jv1WDwAAQBAJ&dq=RICK-STEIN-Long-Weekends&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rick_Stein_s_Secret_France.html?hl=&id=Jv1WDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Rick_Stein_s_Secret_France-sample-epub.acsm?id=Jv1WDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Jv1WDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Real French home cooking with all the recipes from Rick&#39;s new BBC Two series. Over fifty years ago Rick Stein first set foot in France."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i3APCgAAQBAJ",
+   "etag": "53O+onW8YG4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i3APCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Rick Stein: From Venice to Istanbul",
+    "authors": [
+     "Rick Stein"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2015-07-30",
+    "description": "From the mythical heart of Greece to the fruits of the Black Sea coast; from Croatian and Albanian flavours to the spices and aromas of Turkey and beyond – the cuisine of the Eastern Mediterranean is a vibrant melting pot brimming with character. Accompanying the major BBC Two series, Rick Stein: From Venice to Istanbul includes over 100 spectacular recipes discovered by Rick during his travels in the region. The ultimate mezze spread of baba ghanoush, pide bread and keftedes. Mouthwatering garlic shrimps with soft polenta. Heavenly Dalmatian fresh fig tart. Packed with stunning photography of the food and locations, and filled with Rick's passion for fresh produce and authentic cooking, this is a stunning collection of inspiring recipes to evoke the magic of the Eastern Mediterranean at home.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781448142729"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1448142725"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=i3APCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=i3APCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=i3APCgAAQBAJ&printsec=frontcover&dq=RICK-STEIN-Long-Weekends&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=i3APCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i3APCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.65,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 28.95,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=i3APCgAAQBAJ&rdid=book-i3APCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.665E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.895E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Rick_Stein_From_Venice_to_Istanbul-sample-epub.acsm?id=i3APCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i3APCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Packed with stunning photography of the food and locations, and filled with Rick&#39;s passion for fresh produce and authentic cooking, this is a stunning collection of inspiring recipes to evoke the magic of the Eastern Mediterranean at home."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xEtKvgAACAAJ",
+   "etag": "mcFmvimOhUs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xEtKvgAACAAJ",
+   "volumeInfo": {
+    "title": "RICK STEINS LONG WEEKENDS SIGNED",
+    "authors": [
+     "RICK STEIN"
+    ],
+    "publishedDate": "2016-10-06",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1472622731"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781472622730"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xEtKvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xEtKvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xEtKvgAACAAJ&dq=RICK-STEIN-Long-Weekends&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xEtKvgAACAAJ&dq=RICK-STEIN-Long-Weekends&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/RICK_STEINS_LONG_WEEKENDS_SIGNED.html?hl=&id=xEtKvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xEtKvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5A45MQAACAAJ",
+   "etag": "+owH6m2Rq/k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5A45MQAACAAJ",
+   "volumeInfo": {
+    "title": "The Road to Mexico",
+    "authors": [
+     "Rick Stein"
+    ],
+    "publisher": "BBC Books",
+    "publishedDate": "2017-10-19",
+    "description": "A landmark book from Rick Stein, celebrating one of the most popular world cuisines. Starting in San Francisco and Baja California, and working his way down to the southernmost tip of Mexico, Rick Stein cooks, eats and experiences Mexican food at its very best and most diverse. From the incredible seafood of the north Pacific coast, and the mole of Oaxaca, to the spices and salsas of Yucatan and Quintana Roo, no one better captures the foodie essence of a country like Rick. With the trademark beautiful photography and evocative design of Rick's books, The Road to Mexico is a must-have cookbook for Autumn 2017.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "178594200X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781785942006"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking, American"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5A45MQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5A45MQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5A45MQAACAAJ&dq=RICK-STEIN-Long-Weekends&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5A45MQAACAAJ&dq=RICK-STEIN-Long-Weekends&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Road_to_Mexico.html?hl=&id=5A45MQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5A45MQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Starting in San Francisco and Baja California, and working his way down to the southernmost tip of Mexico, Rick Stein cooks, eats and experiences Mexican food at its very best and most diverse"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WTvWt3kzRIgC",
+   "etag": "HqST5aDgcrU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WTvWt3kzRIgC",
+   "volumeInfo": {
+    "title": "Rick Stein's Spain",
+    "subtitle": "140 new recipes inspired by my journey off the beaten track",
+    "authors": [
+     "Rick Stein"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2011-10-31",
+    "description": "'I've wanted to make a series in Spain for a long time. I love Spanish food, I've been going there since I was a young boy - but until quite recently I don't think people really took the food seriously. Thanks to a handful of really dedicated Spanish chefs and a growing enthusiasm for its rugged flavours, that has all begun to change. To me the underlying point of journeying to Spain would be to discover the 'duende' in the cooking. By that I mean a sense of soul, of authenticity. The word is normally used in flamenco but I think it could be equally applied to the art of Spanish cooking because to my mind, in really good food, there is a communication between the cook and diner that amounts to art.' Rick Stein In his beautifully designed and illustrated cookbook to accompany a major BBC2, 4-part series, Rick has selected over 140 recipes that capture the authentic taste of Spain today. Spain is a country that tantalises every sense with its colourful sights, evocative music, vibrant traditions and bold cookery. Spanish cooking has a rich history, with flavours reflecting a broad range of cultural influences. Rick samples his way through the specialties and hidden treats of each region, taking in the changing landscape from the mountainous northern regions through the Spanish plains to Mediterranean beaches. With over 100 Spanish recipes and location photographs, this is an essential cookbook for food-lovers as well as a stunning culinary guide to a diverse country.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781409074618"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1409074617"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.10.9.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WTvWt3kzRIgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WTvWt3kzRIgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WTvWt3kzRIgC&printsec=frontcover&dq=RICK-STEIN-Long-Weekends&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WTvWt3kzRIgC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WTvWt3kzRIgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.65,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 28.95,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WTvWt3kzRIgC&rdid=book-WTvWt3kzRIgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.665E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.895E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Rick_Stein_s_Spain-sample-epub.acsm?id=WTvWt3kzRIgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WTvWt3kzRIgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "With over 100 Spanish recipes and location photographs, this is an essential cookbook for food-lovers as well as a stunning culinary guide to a diverse country."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lslTBAAAQBAJ",
+   "etag": "vv/MMv0qhwQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lslTBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Fish & Shellfish",
+    "authors": [
+     "Rick Stein"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2014-08-14",
+    "description": "Rick Stein’s lifelong passion for cooking fish and shellfish has formed the foundation of his award-winning restaurants and taken him around the world, discovering innovative new recipes, exciting ingredients and the best preparation techniques. In this completely revised, updated and re-designed edition – including brand new recipes – of his classic Seafood, Rick offers comprehensive and inspirational how-to's for choosing, cooking and enjoying fish, shellfish and more. It includes a step-by-step guide to over 60 essential techniques to prepare all types of seafood: from poaching and salting fish to cleaning mussels and cooking lobster. Based on the methods taught at his Padstow seafood school, every step of Rick’s advice is illustrated with full-colour photographs for perfect results. Over 120 recipes from across the world include light salads, delicious starters and spectacular main courses – from Monkfish Vindaloo and Rick's own version of Salt and Pepper Squid to deliciously simple classics like Grilled Sardines and Clams with Garlic and Nut Picada. Complete with tips on buying, storing and sourcing sustainable fish, Rick Stein’s Fish and Shellfish is the essential companion for any fish-lover’s kitchen.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781448142668"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1448142660"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lslTBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lslTBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lslTBAAAQBAJ&printsec=frontcover&dq=RICK-STEIN-Long-Weekends&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lslTBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lslTBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.65,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 28.95,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lslTBAAAQBAJ&rdid=book-lslTBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.665E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.895E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Fish_Shellfish-sample-epub.acsm?id=lslTBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lslTBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this completely revised, updated and re-designed edition – including brand new recipes – of his classic Seafood, Rick offers comprehensive and inspirational how-to&#39;s for choosing, cooking and enjoying fish, shellfish and more."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F81nkpsm09MC",
+   "etag": "kVV13CulzoU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F81nkpsm09MC",
+   "volumeInfo": {
+    "title": "Rick Stein's India",
+    "authors": [
+     "Rick Stein"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2013-06-07",
+    "description": "Whenever I hear the word curry, I’m filled with a longing for spicy hot food with the fragrance of cumin, cloves and cinnamon. I see deep red colours from lots of Kashmiri chillis, tinged with a suggestion of yellow from turmeric. I think of the tandoor oven, and slightly scorched naan shining with ghee and garlic.When Indians talk of their food, they talk about their life. To understand this country, you need to understand curry. What makes a good curry? Sensual spicy aromas or thick, creamy sauces? Rich, dark dals or crispy fried street snacks? Rick journeys through India to find the answer, searching this colourful, chaotic nation in search of the truths behind our love affair with its food. Chefs, home cooks and street vendors hold the key to unlocking the secrets of these complex and diverse flavours – and Rick's travels take him to the heart of both their long-held traditions and most modern techniques. He uncovers recipes for fragrant kormas, delicate spiced fish and slow-cooked biryanis, all the while gathering ideas and inspiration for his own take on that elusive dish – the perfect curry.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781448141067"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1448141060"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.9.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=F81nkpsm09MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=F81nkpsm09MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=F81nkpsm09MC&printsec=frontcover&dq=RICK-STEIN-Long-Weekends&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=F81nkpsm09MC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=F81nkpsm09MC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.65,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 28.95,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=F81nkpsm09MC&rdid=book-F81nkpsm09MC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.665E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.895E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Rick_Stein_s_India-sample-epub.acsm?id=F81nkpsm09MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=F81nkpsm09MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rich, dark dals or crispy fried street snacks? Rick journeys through India to find the answer, searching this colourful, chaotic nation in search of the truths behind our love affair with its food."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PvqDOh-9YsMC",
+   "etag": "Xrde/mssKRA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PvqDOh-9YsMC",
+   "volumeInfo": {
+    "title": "Under a Mackerel Sky",
+    "authors": [
+     "Rick Stein"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2013-09-12",
+    "description": "‘All men should strive to learn before they die what they are running from, and to, and why’ Rick Stein's childhood in 1950s rural Oxfordshire and North Cornwall was idyllic. His parents were charming and gregarious, their five children much-loved and given freedom typical of the time. As he grew older, the holidays were filled with loud and lively parties in his parents' Cornish barn. But ever-present was the unpredicatible mood of his bipolar father, with Rick frequently the focus of his anger and sadness. When Rick was 18 his father killed himself. Emotionally adrift, Rick left for Australia, carrying a suitcase stamped with his father's initials. Manual labour in the outback followed by adventures in America and Mexico toughened up the naive public schoolboy, but at heart he was still lost and unsure what to do with his life. Eventually, Cornwall called him home. From the entrepreneurial days of his mobile disco, the Purple Tiger, to his first, unlikely unlikely nightclub where much of the time was spent breaking up drink-fuelled fights, Rick charts his personal journey in a way that is both wry and perceptive; engaging and witty. Shortlisted for the Specsavers National Book Awards 2013",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781448147243"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1448147247"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PvqDOh-9YsMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PvqDOh-9YsMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PvqDOh-9YsMC&printsec=frontcover&dq=RICK-STEIN-Long-Weekends&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PvqDOh-9YsMC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PvqDOh-9YsMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.09,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PvqDOh-9YsMC&rdid=book-PvqDOh-9YsMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.409E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Under_a_Mackerel_Sky-sample-epub.acsm?id=PvqDOh-9YsMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PvqDOh-9YsMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Shortlisted for the Specsavers National Book Awards 2013"
+   }
+  }
+ ]
+}
