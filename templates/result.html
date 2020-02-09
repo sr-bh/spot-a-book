@@ -53,8 +53,8 @@
                   </a></div>
 
                   <ul class="site-menu main-menu js-clone-nav d-none d-lg-block">
-                    <li><a href="#home-section" class="nav-link">Home</a></li>
-                    <li><a href="#features-section" class="nav-link">Search</a></li>
+                    <li><a href="/index.html#home-section" class="nav-link">Home</a></li>
+                    <li><a href="/index.html#features-section" class="nav-link">Search</a></li>
                     <li><a href="#about-section" class="nav-link">About Us</a></li>
                     <li><a href="#contact-section" class="nav-link">Contact</a></li>
                   </ul>
@@ -72,89 +72,19 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 mb-5">
-            <h1 class="text-white serif text-uppercase mb-4">Meet Your Next Book</h1>
-            <p class="text-white mb-5">Lost in a second-hand bookstore? Can't find the book you are looking for? Or maybe you just want to see if there's something in the book piles that you might like. Check out our cool feature that takes one look at that messy bookshelf and makes it digitally browsable for you. All you need is one image. Try it out! </p>
-            <p><a href="#features-section" class="btn btn-white px-4 py-3">Search this bookstore</a></p>
+            <h1 class="text-white serif text-uppercase mb-4">{{ message }}</h1>
           </div>
         </div>
 
         <div class="row justify-content-center">
           <div class="col-md-10">
-            <img src="static/images/book_1.png" alt="Image" class="img-fluid">
+            <img src="{{ filename }}" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
     </div>
 
-    <div class="site-section bg-light" id="features-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-5 mb-5">
-            <h2 class="heading">What are you looking for?</h2>
-            <p>Want to search for all books by your favorite author? Or just want to find all those Algorithms textbooks? Head over to the search tab to enter your keywords and with one click make the image of your bookshelf searchable!</p>
-          </div>
-          <div class="col-lg-2 mb-2"></div>
-		  <div class="col-lg-5 ml-auto">
-              	<form method="post" action="/search" class="form-subscribe" enctype="multipart/form-data">
-                		<div class="form-group mb-3">
-                  			<input type="text" name="title" class="form-control border-white text-white bg-transparent" placeholder="Book Title" aria-label="Enter Book Title" aria-describedby="button-addon2">
-                		</div>
-                	    <div class="form-group mb-3">
-                  		    <input type="text" name="author" class="form-control border-white text-white bg-transparent" placeholder="Author" aria-label="Enter Author's name" aria-describedby="button-addon2">
-                	    </div>
-                        <div class="form-group mb-3">
-                            <label class="btn btn-primary px-5">
-                  		        <input id="file-upload" type="file" name="shelf" style="display: none;" placeholder="Author" aria-label="Enter Author's name" aria-describedby="button-addon2" accept="image/*">
-                                Upload image
-                            </label>
-                	    </div>
-                        <div class="form-group">
-                            <button class="btn btn-primary px-5" type="submit">Search</button>
-                        </div>
-                </form>
-          </div>
-	    </div>
-      </div>
-    </div>
-
-
-    <div class="author  d-lg-flex" id="about-section">
-      <div class="bg-img" style="background-image: url('static/images/team.jpeg');"></div>
-      <div class="text">
-        <h3>Hello It's Us</h3>
-        <p>We are a bunch of first time hackers figuring out our way at our first ever hackathon! We have learnt a lot of stuff and are really excited to share our work with you. </p>
-
-
-        <div class="mt-5">
-          <span class="d-block text-black mb-4">Team Sanp-A-Book, <span class="text-muted">Hackers &amp; Explorers</span></span>
-          <img src="static/images/signature.png" alt="Image" class="img-fluid w-25">
-        </div>
-        
-      </div>
-    </div>
-
-
-
-    <div class="site-section bg-light" id="testimonial-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-12">
-            <h2 class="heading">Testimonial From Readers</h2>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="site-section py-5 bg-primary">
-      <div class="container">
-        <h3 class="text-white h4 mb-3 ml-3">Subscribe For The New Updates</h3>
-        <div class="d-flex">
-          <input type="text" class="form-control mr-4 px-4" placeholder="Enter your email address...">
-          <input type="submit" class="btn btn-white px-4" value="Send Email">
-        </div>
-      </div>
-    </div>
-  
+    
     <footer class="site-footer">
       <div class="container">
         <div class="row">
